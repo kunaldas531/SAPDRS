@@ -1,4 +1,4 @@
-#User Manual for Smart Accident Prevention, Detection, and Reporting System (SAPDRS)
+# User Manual for Smart Accident Prevention, Detection, and Reporting System (SAPDRS)
 Table of Contents
 1. Introduction
 2. Key Features
@@ -10,24 +10,24 @@ Table of Contents
 8. Frequently Asked Questions (FAQs)
 9. Support and Contact Information
     
-#Introduction
+# Introduction
 The Smart Accident Prevention, Detection, and Reporting System (SAPDRS) is a safety solution designed to improve road safety. It prevents accidents through real-time monitoring, detects incidents automatically, and reports them to emergency services or pre-defined contacts with critical details like location.
 
-#Key Features
+# Key Features
   1. Accident Prevention: Warns about unsafe conditions like excessive speed or proximity to obstacles.
   2. Accident Detection: Identifies crashes and impacts using advanced sensors.
   3. Emergency Reporting: Automatically alerts emergency services and contacts with GPS location.
   4. User-Friendly Interface: Displays status and alerts on a digital display.
   5. Wireless Communication: Ensures quick and accurate reporting through SMS.
   
-#Components Overview
+# Components Overview
   1. Safety Sensors: Measure proximity, speed, and driver condition.
   2. Accident Detection Module: Detects collisions using accelerometers and other sensors.
   3. Alert Module: Sends SMS alerts to emergency contacts via GSM technology.
   4. Power Supply: Powers the system from the vehicle's battery.
   5. Display Unit: Shows system status and alerts.
 
-#Installation and Setup
+# Installation and Setup
   1. Physical Installation
     i. Mount sensors at designated points inside and outside the vehicle:
     ii. Proximity sensors on the front and rear bumpers.
@@ -59,18 +59,18 @@ Upon detecting an accident, the system sends SMS notifications to predefined con
 3. Check all connections periodically for wear and tear.
 4. Ensure the system is securely mounted and not obstructed.
 
-#Troubleshooting
+# Troubleshooting
 1. No Alerts Generated: Verify power supply connections and sensor functionality.
 2. No SMS Sent: Ensure the SIM card has sufficient balance and proper signal strength.
 3. Inconsistent Readings: Recalibrate the sensors.
 
-#Safety Guidelines
+# Safety Guidelines
 1. Ensure professional installation to avoid malfunctions.
 2. Do not tamper with the system while the vehicle is in motion.
 3. Regularly test the system to confirm proper functionality.
 4. Replace damaged components immediately.
 
-#Frequently Asked Questions (FAQs)
+# Frequently Asked Questions (FAQs)
 1. How does the system detect accidents?
 A. The system uses impact sensors and accelerometers to measure sudden changes in motion or
 force.
