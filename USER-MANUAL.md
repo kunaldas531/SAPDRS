@@ -47,11 +47,12 @@ Test all modules to ensure functionality.
 # Operating Instructions
   1. Starting the System
       i. The system activates automatically when the vehicle starts.
+     <br>
       ii. A status indicator on the display confirms that the system is operational.
-  2. Accident Prevention
+  3. Accident Prevention
       i. Proximity sensors monitor the surroundings and issue audio/visual alerts if hazards are detected.
       ii. Alerts for over-speeding or unsafe behavior are displayed and signaled.
-  3. Accident Detection and Reporting
+  4. Accident Detection and Reporting
 Upon detecting an accident, the system sends SMS notifications to predefined contacts, including location coordinates and severity details.
 # Maintenance and Troubleshooting
 1. Routine Maintenance
