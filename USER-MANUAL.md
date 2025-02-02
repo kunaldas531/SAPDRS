@@ -31,16 +31,20 @@ The Smart Accident Prevention, Detection, and Reporting System (SAPDRS) is a saf
   1. Physical Installation:
      <br>
     i. Mount sensors at designated points inside and outside the vehicle:
-    ii. Proximity sensors on the front and rear bumpers.
-    iii. Detection sensors securely inside the vehicle cabin.
-    iv. Fix the main control module in a safe, accessible location.
+<br>
+        a. Proximity sensors on the front and rear bumpers.
+     <br>
+        b. Detection sensors securely inside the vehicle cabin.
+     <br>
+        c. Fix the main control module in a safe, accessible location.
 
-2. Power Supply:
+3. Power Supply:
    <br>
     i. Connect the system to the vehicle's electrical system.
+   <br>
     ii. Ensure proper grounding to avoid malfunctions.
 
-4. Configuration:
+5. Configuration:
    <br>
     Use the system interface to input emergency contact numbers, set threshold values for alerts, and enable location tracking.
 
