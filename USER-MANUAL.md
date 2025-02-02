@@ -28,32 +28,43 @@ The Smart Accident Prevention, Detection, and Reporting System (SAPDRS) is a saf
   5. Display Unit: Shows system status and alerts.
 
 # Installation and Setup
-  1. Physical Installation
+  1. Physical Installation:
+     <br>
     i. Mount sensors at designated points inside and outside the vehicle:
     ii. Proximity sensors on the front and rear bumpers.
     iii. Detection sensors securely inside the vehicle cabin.
     iv. Fix the main control module in a safe, accessible location.
 
-3. Power Supply
+2. Power Supply:
+   <br>
     i. Connect the system to the vehicle's electrical system.
     ii. Ensure proper grounding to avoid malfunctions.
 
-4. Configuration
+4. Configuration:
+   <br>
     Use the system interface to input emergency contact numbers, set threshold values for alerts, and enable location tracking.
 
-5. Testing
-Test all modules to ensure functionality.
+6. Testing:
+   <br>
+   Test all modules to ensure functionality.
 
 # Operating Instructions
   1. Starting the System
+     <br>
       i. The system activates automatically when the vehicle starts.
      <br>
       ii. A status indicator on the display confirms that the system is operational.
-  3. Accident Prevention
-      i. Proximity sensors monitor the surroundings and issue audio/visual alerts if hazards are detected.
-      ii. Alerts for over-speeding or unsafe behavior are displayed and signaled.
-  4. Accident Detection and Reporting
-Upon detecting an accident, the system sends SMS notifications to predefined contacts, including location coordinates and severity details.
+     <br>
+  2. Accident Prevention
+<br>
+        i. Proximity sensors monitor the surroundings and issue audio/visual alerts if hazards are detected.
+     <br>
+        ii. Alerts for over-speeding or unsafe behavior are displayed and signaled.
+     <br>
+  3. Accident Detection and Reporting
+<br>
+     Upon detecting an accident, the system sends SMS notifications to predefined contacts, including location coordinates and severity details.
+
 # Maintenance and Troubleshooting
 1. Routine Maintenance
 2. Clean sensors regularly to remove dust and debris.
@@ -72,13 +83,25 @@ Upon detecting an accident, the system sends SMS notifications to predefined con
 4. Replace damaged components immediately.
 
 # Frequently Asked Questions (FAQs)
-1. How does the system detect accidents?
+Q. How does the system detect accidents?
+<br>
 A. The system uses impact sensors and accelerometers to measure sudden changes in motion or
 force.
-2. Can I change the emergency contact numbers?
+<br>
+Q. Can I change the emergency contact numbers?
+<br>
 A. Yes, you can update them through the configuration settings.
-3. Does the system work without a mobile network?
+<br>
+Q. Does the system work without a mobile network?
+<br>
 A. The system requires a GSM network to send SMS alerts. Without network coverage, it will retry
 until successful.
-4. Is the system compatible with all vehicles?
+<br>
+Q. Is the system compatible with all vehicles?
+<br>
 A. Yes, it can be installed in most vehicles with a standard power supply.
+
+# Support and Contact Information
+For assistance or technical support, contact:
+<br>
+Email: kunaldas532001@gmail.com
