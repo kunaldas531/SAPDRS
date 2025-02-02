@@ -36,17 +36,17 @@ The Smart Accident Prevention, Detection, and Reporting System (SAPDRS) is a saf
      <br>
      iii. Fix the main control module in a safe, accessible location.
 
-3. Power Supply:
+2. Power Supply:
    <br>
     i. Connect the system to the vehicle's electrical system.
    <br>
     ii. Ensure proper grounding to avoid malfunctions.
-
-5. Configuration:
+    
+3. Configuration:
    <br>
     Use the system interface to input emergency contact numbers, set threshold values for alerts, and enable location tracking.
 
-6. Testing:
+4. Testing:
    <br>
    Test all modules to ensure functionality.
 
@@ -56,13 +56,12 @@ The Smart Accident Prevention, Detection, and Reporting System (SAPDRS) is a saf
       i. The system activates automatically when the vehicle starts.
      <br>
       ii. A status indicator on the display confirms that the system is operational.
-     <br>
   2. Accident Prevention
 <br>
         i. Proximity sensors monitor the surroundings and issue audio/visual alerts if hazards are detected.
      <br>
         ii. Alerts for over-speeding or unsafe behavior are displayed and signaled.
-     <br>
+
   3. Accident Detection and Reporting
 <br>
      Upon detecting an accident, the system sends SMS notifications to predefined contacts, including location coordinates and severity details.
