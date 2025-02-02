@@ -57,13 +57,11 @@ The Smart Accident Prevention, Detection, and Reporting System (SAPDRS) is a saf
      <br>
       ii. A status indicator on the display confirms that the system is operational.
   2. Accident Prevention
-<br>
         i. Proximity sensors monitor the surroundings and issue audio/visual alerts if hazards are detected.
      <br>
         ii. Alerts for over-speeding or unsafe behavior are displayed and signaled.
 
   3. Accident Detection and Reporting
-<br>
      Upon detecting an accident, the system sends SMS notifications to predefined contacts, including location coordinates and severity details.
 
 # Maintenance and Troubleshooting
